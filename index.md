@@ -1,6 +1,8 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/slryou41/sryou/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Test [link](https://github.com/slryou41/sryou)
+
+You can use the [editor on GitHub](https://github.com/slryou41/slryou41.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 

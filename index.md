@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Welcome to GitHub Pages
 
 [Link to another page](./anchorLoss.html).

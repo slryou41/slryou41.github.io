@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-Test [link](https://github.com/slryou41/sryou)
+Test [link](https://slryou41.github.com/sryou)
 
 You can use the [editor on GitHub](https://github.com/slryou41/slryou41.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 

@@ -2,8 +2,12 @@
 layout: project
 ---
 
-## Welcome to another page
+## Anchor Loss: Modulating loss scale based on prediction difficulty
 
-_yay_
+Abstract:
+
+Bibtex:
+
+[github], [arxiv]
 
 [back](./)

@@ -2,7 +2,7 @@
 layout: project
 ---
 
-## Anchor Loss: Modulating loss scale based on prediction difficulty
+# Anchor Loss: Modulating loss scale based on prediction difficulty
 
 ![overview](https://github.com/slryou41/slryou41.github.io/blob/master/images/overview.png?raw=true)
 

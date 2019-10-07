@@ -2,7 +2,7 @@
 layout: project
 ---
 
-# Anchor Loss: Modulating loss scale based on prediction difficulty, ICCV19' Oral
+# Anchor Loss: Modulating loss scale based on prediction difficulty, <font size="6">ICCV19' Oral</font>
 
 <p class="aligncenter">
   <img src="https://github.com/slryou41/slryou41.github.io/blob/master/images/overview.png?raw=true" style="width:500px">

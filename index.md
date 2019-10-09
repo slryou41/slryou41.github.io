@@ -2,7 +2,9 @@
 layout: default
 ---
 
-## Welcome to GitHub Pages
+## About me
+
+I'm a Ph.D. student at Caltech under the supervision of [Pietro Perona](http://www.vision.caltech.edu/). My research interests are finding semantic structure of an object. 
 
 [Link to another page](./anchorLoss.html).
 
@@ -10,7 +12,7 @@ You can use the [editor on GitHub](https://github.com/slryou41/slryou41.github.i
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Publications
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 

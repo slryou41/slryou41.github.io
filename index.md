@@ -4,7 +4,7 @@ layout: default
 
 ## About me
 
-I'm a Ph.D. student at Caltech under the supervision of [Pietro Perona](http://www.vision.caltech.edu/). My research interests are finding semantic structure of an object. 
+I'm a Ph.D. student at Caltech under the supervision of [Pietro Perona](http://www.vision.caltech.edu/). My research interests are finding semantic structure of an object and keypoint estimation. 
 
 [Link to another page](./anchorLoss.html).
 
@@ -13,6 +13,9 @@ You can use the [editor on GitHub](https://github.com/slryou41/slryou41.github.i
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Publications
+
+<img src="https://github.com/slryou41/slryou41.github.io/blob/master/images/pose_seq.png?raw=true">
+<br>Parsing Pose of People with Interaction</br>
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 

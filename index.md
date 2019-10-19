@@ -8,7 +8,9 @@ I'm a Ph.D. student at Caltech under the supervision of [Pietro Perona](http://w
 
 ## Publications
 
-<img src="https://github.com/slryou41/slryou41.github.io/blob/master/images/pose_seq.png?raw=true" align="right">
+<p class="alignleft">
+  <img src="https://github.com/slryou41/slryou41.github.io/blob/master/images/overview.png?raw=true" style="width:100px">
+</p>
 > **Anchor Loss: Modulating loss scale based on prediction difficulty**, ICCV 2019, Oral
 > Serim Ryou, Seong-Gyun Jeong, and Pietro Perona
 > [project](./anchorLoss.html)

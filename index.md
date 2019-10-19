@@ -13,7 +13,7 @@ I'm a Ph.D. student at Caltech under the supervision of [Pietro Perona](http://w
 <div>
   <p>
     <img src="https://github.com/slryou41/slryou41.github.io/blob/master/images/overview.png?raw=true" width="170" align="left" hspace="10">
-    <b>Anchor Loss: Modulating loss scale based on prediction difficulty</b>, ICCV 2019, Oral <br />
+    <b>Anchor Loss: Modulating loss scale based on prediction difficulty</b>, ICCV 2019 Oral <br />
     <i>Serim Ryou, Seong-Gyun Jeong, and Pietro Perona</i><br />
     <a href="./anchorLoss.html">[project]</a>
   </p>

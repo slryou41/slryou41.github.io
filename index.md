@@ -14,11 +14,16 @@ I'm a Ph.D. student at Caltech under the supervision of [Pietro Perona](http://w
   <i>Serim Ryou, Seong-Gyun Jeong, and Pietro Perona</i><br />
   <a href="./anchorLoss.html">[project]</a>
 </p>
-> **Anchor Loss: Modulating loss scale based on prediction difficulty**, ICCV 2019, Oral
-> Serim Ryou, Seong-Gyun Jeong, and Pietro Perona
-> [project](./anchorLoss.html)
 
 * * *
+
+<p>
+  <img src="https://github.com/slryou41/slryou41.github.io/blob/master/images/pose_seq.png?raw=true" width="170" align="left">
+  <b>Parsing Pose of People with Interaction</b>, BMVC 2018 <br />
+  <i>Serim Ryou and Pietro Perona</i><br />
+  <a href="https://sites.google.com/view/coco-crowd/home">[project]</a>
+</p>
+
 <img src="https://github.com/slryou41/slryou41.github.io/blob/master/images/pose_seq.png?raw=true">
 **Parsing Pose of People with Interaction**, BMVC 2018
 Serim Ryou and Pietro Perona

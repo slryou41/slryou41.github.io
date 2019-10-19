@@ -16,7 +16,7 @@ I'm a Ph.D. student at Caltech under the supervision of [Pietro Perona](http://w
 > [project](./anchorLoss.html)
 
 * * *
-<img src="https://github.com/slryou41/slryou41.github.io/blob/master/images/overview.png?raw=true">
+<img src="https://github.com/slryou41/slryou41.github.io/blob/master/images/pose_seq.png?raw=true">
 **Parsing Pose of People with Interaction**, BMVC 2018
 Serim Ryou and Pietro Perona
 [project](https://sites.google.com/view/coco-crowd/home)

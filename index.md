@@ -10,7 +10,7 @@ I'm a Ph.D. student at Caltech under the supervision of [Pietro Perona](http://w
 
 ## Publications
 
-<div>
+<div style="height: 200px;">
   <p>
     <img src="https://github.com/slryou41/slryou41.github.io/blob/master/images/overview.png?raw=true" width="170" align="left" hspace="10">
     <b>Anchor Loss: Modulating loss scale based on prediction difficulty</b>, ICCV 2019 Oral <br />
@@ -19,7 +19,7 @@ I'm a Ph.D. student at Caltech under the supervision of [Pietro Perona](http://w
   </p>
 </div>
 
-<div>
+<div style="height: 200px;">
   <p>
     <img src="https://github.com/slryou41/slryou41.github.io/blob/master/images/pose_seq.png?raw=true" width="170" align="left" hspace="10">
     <b>Parsing Pose of People with Interaction</b>, BMVC 2018 <br />

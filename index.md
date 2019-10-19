@@ -14,8 +14,15 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Publications
 
+<img src="https://github.com/slryou41/slryou41.github.io/blob/master/images/overview.png?raw=true">
+**Anchor Loss: Modulating loss scale based on prediction difficulty**, ICCV 2019, Oral
+Serim Ryou, Seong-Gyun Jeong, and Pietro Perona
+[project](./anchorLoss.html)
+
 <img src="https://github.com/slryou41/slryou41.github.io/blob/master/images/pose_seq.png?raw=true">
-<br>Parsing Pose of People with Interaction</br>
+**Parsing Pose of People with Interaction**, BMVC 2018
+Serim Ryou and Pietro Perona
+[project](https://sites.google.com/view/coco-crowd/home)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 

@@ -23,7 +23,12 @@ We propose a novel loss function that dynamically rescales the cross entropy bas
 
 ## Cite:
 ```
-
+@inproceedings{anchorloss_iccv19,
+  title     = {Anchor Loss: Modulating loss scale based on prediction difficulty},
+  author    = {Serim Ryou and Seong-Gyun Jeong and Pietro Perona},
+  booktitle = {ICCV},
+  year = {2019}
+}
 ```
 
 

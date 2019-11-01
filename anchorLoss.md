@@ -14,7 +14,7 @@ We propose a novel loss function that dynamically rescales the cross entropy bas
 
 ## Presentation
 
-[slides](https://drive.google.com/file/d/1G2e6EY9VVcf6Ft0iQu4vWT1t3QFHvck4/view?usp=sharing), [poster]
+[slides](https://drive.google.com/file/d/1G2e6EY9VVcf6Ft0iQu4vWT1t3QFHvck4/view?usp=sharing), [poster](https://drive.google.com/file/d/1r8Es8lCfo_l60BDFLFtewZNWRgjZVfFJ/view?usp=sharing)
 
 
 <div class="iframeVideo">

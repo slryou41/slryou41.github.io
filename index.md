@@ -12,6 +12,15 @@ I'm a Ph.D. student at Caltech under the supervision of [Pietro Perona](http://w
 
 <div style="height: 150px;">
   <p>
+    <img src="https://github.com/slryou41/slryou41.github.io/blob/master/images/gnn_intro.png?raw=true" width="170" align="left" hspace="5">
+    <b>Graph Neural Networks for the Prediction of Substrate-Specific Organic Reaction Conditions</b>, ICML 2020 Workshop Graph Representation Learning and Beyond <br />
+    <i>Serim Ryou*, Michael R. Maser*, Alexander Y. Cui*, Travis J. DeLano, Yisong Yue and Sarah E. Reisman</i><br />
+    <a href="https://github.com/slryou41/reaction-gcnn">[code]</a>
+  </p>
+</div>
+
+<div style="height: 150px;">
+  <p>
     <img src="https://github.com/slryou41/slryou41.github.io/blob/master/images/overview.png?raw=true" width="170" align="left" hspace="5">
     <b>Anchor Loss: Modulating loss scale based on prediction difficulty</b>, ICCV 2019 <b><font color="#FFA500">Oral</font></b> <br />
     <i>Serim Ryou, Seong-Gyun Jeong, and Pietro Perona</i><br />

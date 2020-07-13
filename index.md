@@ -12,7 +12,7 @@ I'm a Ph.D. candidate at Caltech under the supervision of [Pietro Perona](http:/
 
 <div style="height: 200px;">
   <p>
-    <img src="https://github.com/slryou41/slryou41.github.io/blob/master/images/gnn_intro.png?raw=true" width="170" align="left" hspace="10">
+    <img src="https://github.com/slryou41/slryou41.github.io/blob/master/images/gnn_intro.png?raw=true" width="170" align="left" hspace="5">
     <b>Graph Neural Networks for the Prediction of Substrate-Specific Organic Reaction Conditions</b>, ICML Workshop 2020 Graph Representation Learning and Beyond <br />
     <i>Serim Ryou*, Michael R. Maser*, Alexander Y. Cui*, Travis J. DeLano, Yisong Yue and Sarah E. Reisman</i><br />
     <a href="https://arxiv.org/abs/2007.04275">[paper]</a>

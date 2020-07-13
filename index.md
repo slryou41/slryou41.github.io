@@ -4,7 +4,7 @@ layout: default
 
 ## About me
 
-I'm a Ph.D. student at Caltech under the supervision of [Pietro Perona](http://www.vision.caltech.edu/). My research interests are finding semantic structure of an object and keypoint estimation. 
+I'm a Ph.D. candidate at Caltech under the supervision of [Pietro Perona](http://www.vision.caltech.edu/). My research interests are finding semantic structure of an object and keypoint estimation. 
 
 * * *
 

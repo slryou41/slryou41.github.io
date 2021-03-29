@@ -13,7 +13,7 @@ I'm a Ph.D. candidate at Caltech under the supervision of [Pietro Perona](http:/
 <div style="height: 200px;">
   <p>
     <img src="https://github.com/slryou41/slryou41.github.io/blob/master/images/chem_journal.gif?raw=true" width="170" align="left" hspace="5">
-    <b>Multi-label Classification Models for the Prediction of Cross-Coupling Reaction Conditions<br />
+    <b>Multi-label Classification Models for the Prediction of Cross-Coupling Reaction Conditions</b>, Journal of Chemical Information and Modeling (JCIM) 2021 <br />
     <i>Michael R. Maser*, Alexander Y. Cui*, Serim Ryou*, Travis J. DeLano, Yisong Yue and Sarah E. Reisman</i><br />
     <a href="https://pubs.acs.org/doi/10.1021/acs.jcim.0c01234">[paper]</a>
     <a href="https://github.com/slryou41/reaction-gcnn">[code]</a>
